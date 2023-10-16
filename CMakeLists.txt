@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.19)
+project(fall2023-csc3380-lecture11)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(question1 code/question1.cpp)
+add_executable(question2 code/question2.cpp)
+add_executable(question4 code/question4.cpp)
+add_executable(question5 code/question5.cpp)
+add_executable(question7 code/question7.cpp)
+add_executable(question8 code/question8.cpp)
+add_executable(question9 code/question9.cpp)
+add_executable(question10 code/question10.cpp)
+add_executable(question12 code/question12.cpp)
+add_executable(question13 code/question13.cpp)
+add_executable(question14 code/question14.cpp)
